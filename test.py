@@ -1,3 +1,4 @@
 name = "huzaifah"
 print(name)
-print(Bashir is a wasteman)
+print("Bashir is a wasteman")
+
