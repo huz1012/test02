@@ -1,4 +1,3 @@
 name = "huzaifah"
 print(name)
-print("Bashir is a wasteman")
-
+print(name, "wants to make money")
